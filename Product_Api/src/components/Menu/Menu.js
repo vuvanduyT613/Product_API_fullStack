@@ -14,6 +14,7 @@ const menus = [
     }
 ];
 
+//tach code ra
 const MenuLink = ({ label, to, activeOnlyWhenExact }) => {
     return (
         <Route
